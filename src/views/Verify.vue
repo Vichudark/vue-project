@@ -1,7 +1,6 @@
 <template>
   <div>
-    <h1>Signup page</h1>
-    <h2>hmm</h2>
+    <h1>hello</h1>
   </div>
 </template>
 
