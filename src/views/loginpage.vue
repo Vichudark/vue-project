@@ -52,6 +52,7 @@ beforeUpdate(){
 },
 updated(){
   console.log("Updated",this.count);
+  console.log("updated");
 }
 }
 
